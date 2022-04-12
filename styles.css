@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+text-align: center;
+font-family: 'Merriweather',serif;
+}
+
+h1{
+color: white;
+
+  font-family: 'Sacramento', cursive;
+
+
+}
+h2{
+font-size: 40px;
+  font-family: 'Monstserrst',sans-serif;
+  line-height: 2;
+}
+.top-container{
+  background-color: #05DFD7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+.middle-container{
+background-color: #FA26A0;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-container{
+  background-color: #A3F7BF;
+  width: 200px;
+  height: 200px;
+}
+.topView{
+position: absolute;
+right: 300px;
+top: 30px;
+
+
+}
+.bottomView{
+position: absolute;
+left: 300px;
+bottom: 300px;
+
+}
